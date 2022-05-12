@@ -1,3 +1,17 @@
+# Shopping Cart
+#### Tech stack: React  &amp; Firebase 
+
+
+##### In this project, We have Cart component, and it has CartItems or Products.
+###### And each CartItem has:
+- Image of product
+- Product name
+- Price of that product
+- Quantity of that product
+###### And also it has following options:
+- Plus button, to increase the quantity of product
+- Minus button, to decrease the quantity of product
+-  Delete button, to delete or remove the product from cart
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
